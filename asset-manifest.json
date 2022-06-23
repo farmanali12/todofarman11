@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todofarman11/static/css/main.b2b70d29.css",
+    "main.js": "/todofarman11/static/js/main.584519ed.js",
+    "static/js/787.2afbd57d.chunk.js": "/todofarman11/static/js/787.2afbd57d.chunk.js",
+    "index.html": "/todofarman11/index.html",
+    "main.b2b70d29.css.map": "/todofarman11/static/css/main.b2b70d29.css.map",
+    "main.584519ed.js.map": "/todofarman11/static/js/main.584519ed.js.map",
+    "787.2afbd57d.chunk.js.map": "/todofarman11/static/js/787.2afbd57d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2b70d29.css",
+    "static/js/main.584519ed.js"
+  ]
+}
